@@ -1,2 +1,2 @@
 # gsanchezna.github.io
-Pagina para mostrar el proyecto de diseño gráfico del Grado Superior de DAW de la UOC
+Pagina para mostrar los proyectos del Grado Superior de DAW de la UOC
